@@ -1,0 +1,28 @@
+* body {
+    text-align: justify;
+    color: aquamarine;
+    background-color: black;
+}
+
+form{
+    width: 50%;
+    margin-left: 20px;
+}
+
+#location {
+    width: 180px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+#name {
+    width: 180px;
+    height: 30px;
+    color: aquamarine;
+}
+
+#language {
+    width: 180px;
+    height: 30px;
+    margin-left: 10px;
+}
